@@ -132,7 +132,9 @@ ul {
     align-content: flex-start;
     font-size: var(--phi-em-down);
     font-family: Nunito;
+    /*
     height: 32px;
+    */
 }
 
 #content section > main > footer {
